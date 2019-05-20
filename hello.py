@@ -1,4 +1,4 @@
-name=input("What's Your Name? ")
+name=input("What's My Name? ")
 
-print("Oh, I see.")
-print(f"Your name is {name}.")
+print("Hello World!")
+print(f"My name is {name}.")
