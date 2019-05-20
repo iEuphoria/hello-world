@@ -1,2 +1,5 @@
 # hello-world
-First repo
+
+Hi everyone!
+
+This is just a demo following the official guide.
